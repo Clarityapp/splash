@@ -1,0 +1,12 @@
+body {
+  font-family: 'Lato', sans-serif;
+  margin: auto;
+}
+
+img { border: 0; }
+
+.container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
