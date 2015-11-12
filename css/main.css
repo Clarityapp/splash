@@ -4,8 +4,7 @@ body {
   margin: auto;
   background-image: url('../assets/bg.png');
   background-repeat: no-repeat;
-  background-attachment: top;
-  background-position: center;
+  background-position: top center;
 }
 
 img { border: 0; }
