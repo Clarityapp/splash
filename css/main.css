@@ -2,6 +2,10 @@ body {
   font-family: 'Lato', sans-serif;
   color: #030E1B;
   margin: auto;
+  background-image: url('../assets/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: top;
+  background-position: center;
 }
 
 img { border: 0; }
@@ -12,14 +16,14 @@ img { border: 0; }
   display: flex;
 }
 
-a { text-decoration: none; }
+a {
+  text-decoration: none;
+  color: #748599;
+}
 
 a:visited { color: gray; }
 
-a:hover {
-  text-decoration: underline;
-  color: #748599;
-}
+a:hover { color: #4A90E2; }
 
 footer {
   font-size: 18px;
@@ -32,7 +36,7 @@ p {
   line-height: 36px;
 }
 
-h1 {
+h2 {
   font-size: 32px;
   line-height: 46px;
 }
