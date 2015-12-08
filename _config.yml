@@ -1,6 +1,7 @@
 # Settings
 title: Clarity - Making Life Easier!
-email: support@clarityapp.co
+email: info@clarityapp.co
+support: support@clarityapp.co
 description: Clarity is the only all-in-one financial analysis tool that is geared towards business owners like you. It is easy to use and understand and connects with your favorite online accounting programs Xero and Quickbooks. Join our Beta today!
 keywords: financial statement analysis, audit risk assessment, audit risk assessment software, audit software, analytical review software, private company industry information, business projections,  analytical procedures, industry benchmarks, benchmarking, business projection software, business ratios, buy accounting software, trend analysis, easy to use analysis software, simple analysis software, canadian company comparisons
 baseurl: ""
@@ -12,3 +13,9 @@ twitter: claritycohq
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Disable auto-generated ID's for headings
+  auto_ids: false
