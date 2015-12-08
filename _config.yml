@@ -2,13 +2,13 @@
 title: Clarity - Making Life Easier!
 email: support@clarityapp.co
 description: Making Life Easier!
+keywords: analytics
 baseurl: ""
 url: "http://clarityapp.co"
 
 # Links
-github: monkinstudio
-dribbble: monkinstudio
-twitter: monkinstudio
+github: Clarityapp
+twitter: claritycohq
 
 # Build settings
 markdown: kramdown
