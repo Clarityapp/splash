@@ -1,0 +1,15 @@
+---
+layout: default
+title: About Us
+permalink: /blog/
+---
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><time>{{ post.date | date: "%b %-d, %Y" }}</time>&nbsp;{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>

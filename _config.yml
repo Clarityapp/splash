@@ -11,11 +11,13 @@ url: "http://clarityapp.co"
 github: Clarityapp
 twitter: claritycohq
 
+# Google Analytics
+google_analytics_id: UA-69332719-1
+
 # Build settings
 markdown: kramdown
 
+# Markdown Settings
 kramdown:
-  # Enable GitHub Flavored Markdown (fenced code blocks)
   input: GFM
-  # Disable auto-generated ID's for headings
   auto_ids: false
