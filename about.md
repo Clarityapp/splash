@@ -6,8 +6,6 @@ permalink: /about/
 
 We have a passion to help business owners and believe that getting a strong understanding on your financials will help you move your business forward.
 
-We want to provide you with in-depth information that is easy to understand and requires no prior knowledge of what a financial ratio means or how it can help your business. That is why *Clarity* was created. To be a simple, easy to use interface between you and the numbers that matter in your business.
-
 - **Get financial snapshots in seconds**
 With our automated system we pull in all of your financial information and quickly analyze your company. This analysis provides deeper insight into what is happening inside your company, and even tells you how you are doing in comparison to your competitors.
 - **Real - Time**
