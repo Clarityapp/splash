@@ -5,7 +5,7 @@ body {
   font-size: 16px;
 
   margin: auto;
-  max-width: 980px;
+  max-width: 780px;
   width: 80%;
 
   background: url('/assets/bg.png');
@@ -49,7 +49,7 @@ p {
 footer {
   font-size: 18px;
   line-height: 30px;
-  color: #1C2530;
+  color: #748599;
   margin: 40px 0px 40px 0px;
 }
 
@@ -74,8 +74,8 @@ ul li {
 /* Integrations */
 
 .integrations {
-  width: 80%;
-  height: 86px;
+  width: 100%;
+  padding: 30px 20px 28px 20px;
   border: 1px solid rgba(115,133,153,0.20);
   border-radius: 8px;
   background: white;
@@ -85,7 +85,6 @@ ul li {
 
 .integrations > p {
   margin: auto;
-  padding-top: 3%;
 }
 
 .integrations:hover {
