@@ -3,17 +3,21 @@
   {% include head.html %}
 <body>
 
-<main>
+  <main>
+    
+    <header>
 
-  <a href="/"><img src="/assets/logo.png" alt="" /></a>
+      <a href="/"><img src="/assets/logo.png" alt="" /></a>
 
-    {{ content }}
+    </header>
 
-  {% include integrations.html %}
-  {% include footer.html %}
-  {% include analytics.html %}
+      {{ content }}
 
-</main>
+    {% include integrations.html %}
+    {% include footer.html %}
+    {% include analytics.html %}
+
+  </main>
 
 </body>
 </html>

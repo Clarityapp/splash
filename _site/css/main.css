@@ -20,6 +20,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 120px;
 }
 
 img { border: 0; }
@@ -36,7 +37,7 @@ a {
   color: #4A90E2;
 }
 
-a:visited { color: #4A90E2; }
+a:active { color: red; }
 
 a:hover { text-decoration: underline; }
 
@@ -73,17 +74,20 @@ ul li {
 /* Integrations */
 
 .integrations {
-  width: 600px;
+  width: 80%;
   height: 86px;
   border: 1px solid rgba(115,133,153,0.20);
   border-radius: 8px;
   background: white;
   margin-top: 40px;
+  background-color: #E4ECF5;
 }
 
 .integrations > p {
   margin: auto;
-  padding-top: 4%;
+  padding-top: 3%;
 }
 
-.integrations:hover { box-shadow: 0px 2px 2px 0px #E4ECF5; }
+.integrations:hover {
+  box-shadow: 0px 2px 2px 0px #E4ECF5;
+}
