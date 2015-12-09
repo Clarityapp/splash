@@ -6,7 +6,7 @@ body {
 
   margin: auto;
   max-width: 780px;
-  width: auto;
+  width: 80%;
 
   background: url('/assets/bg.png');
   background-repeat: no-repeat;
@@ -75,16 +75,12 @@ ul li {
 
 .integrations {
   width: 100%;
-  padding: 30px 20px 28px 20px;
+  padding: 10px 10px 10px 10px;
   border: 1px solid rgba(115,133,153,0.20);
   border-radius: 8px;
   background: white;
   margin-top: 40px;
   background-color: #E4ECF5;
-}
-
-.integrations > p {
-  margin: auto;
 }
 
 .integrations:hover {
