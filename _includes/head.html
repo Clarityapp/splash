@@ -3,7 +3,7 @@
   <meta name="viewport" content="initial-scale=1">
   <meta charset="UTF-8">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{{ site.title }}{% if page.title %}&nbsp;-&nbsp;{{ page.title }}{% endif %}</title>
 
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700italic' rel='stylesheet' type='text/css'>
   <link href="/css/main.css" rel='stylesheet' type='text/css'>

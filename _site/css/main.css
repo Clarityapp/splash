@@ -2,14 +2,15 @@ body {
   font-family: 'Lato', sans-serif;
   color: #030E1B;
   text-align: center;
+  font-size: 16px;
 
   margin: auto;
-
-  background-image: url('/assets/bg.png');
-  background-repeat: no-repeat;
-  background-position: top center;
   max-width: 980px;
   width: 80%;
+
+  background: url('/assets/bg.png');
+  background-repeat: no-repeat;
+  background-position: top center;
 
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -30,16 +31,15 @@ a:visited { color: #4A90E2; }
 
 a:hover { text-decoration: underline; }
 
-footer {
-  font-size: 18px;
-  color: #1C2530;
-  line-height: 30px;
-  margin: 40px 0px 40px 0px;
+p, footer {
+  font-size: 1.2em;
+  line-height: 1.25em;
 }
 
-p {
-  font-size: 28px;
-  line-height: 41px;
+footer {
+  font-size: 1em;
+  color: #1C2530;
+  margin: 40px 0px 40px 0px;
 }
 
 ul {
@@ -50,26 +50,30 @@ ul {
 
 ul li {
   padding-bottom: 20px;
-  font-size: 18px;
-  line-height: 30px;
   color: #3D4F63;
-}
-
-h2 {
-  font-size: 32px;
-  line-height: 46px;
+  width: 500px;
+  margin: auto;
 }
 
 .integrations {
   width: 800px;
-  height: 100px;
+  height: 110px;
   border: 1px solid rgba(115,133,153,0.20);
   border-radius: 8px;
   background: white;
+  margin-top: 40px;
 }
 
-.integrations * img {
+.integrations > p {
+  margin: auto;
+  padding: 5%;
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+
+p * img {
   vertical-align: middle;
+  margin: 0px 10px 0px 10px;
 }
 
 .integrations:hover { box-shadow: 0px 2px 2px 0px #E4ECF5; }
