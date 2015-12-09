@@ -22,6 +22,13 @@ body {
 
 img { border: 0; }
 
+p * img {
+  vertical-align: middle;
+  margin: 0px 10px 0px 10px;
+}
+
+/* Hyperlinks */
+
 a {
   text-decoration: none;
   color: #4A90E2;
@@ -31,16 +38,23 @@ a:visited { color: #4A90E2; }
 
 a:hover { text-decoration: underline; }
 
-p, footer {
-  font-size: 1.2em;
-  line-height: 1.25em;
+p {
+  font-size: 22px;
+  line-height: 36px;
 }
 
 footer {
-  font-size: 1em;
+  font-size: 18px;
+  line-height: 30px;
   color: #1C2530;
   margin: 40px 0px 40px 0px;
 }
+
+footer a {
+  padding: 0px 5px 0px 5px;
+}
+
+/* List */
 
 ul {
   list-style-type: none;
@@ -51,13 +65,14 @@ ul {
 ul li {
   padding-bottom: 20px;
   color: #3D4F63;
-  width: 500px;
   margin: auto;
 }
 
+/* Integrations */
+
 .integrations {
-  width: 800px;
-  height: 110px;
+  width: 600px;
+  height: 86px;
   border: 1px solid rgba(115,133,153,0.20);
   border-radius: 8px;
   background: white;
@@ -66,14 +81,7 @@ ul li {
 
 .integrations > p {
   margin: auto;
-  padding: 5%;
-  font-size: 1.5em;
-  line-height: 1.2em;
-}
-
-p * img {
-  vertical-align: middle;
-  margin: 0px 10px 0px 10px;
+  padding-top: 4%;
 }
 
 .integrations:hover { box-shadow: 0px 2px 2px 0px #E4ECF5; }
