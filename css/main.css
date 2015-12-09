@@ -6,7 +6,7 @@ body {
 
   margin: auto;
   max-width: 780px;
-  width: 80%;
+  width: auto;
 
   background: url('/assets/bg.png');
   background-repeat: no-repeat;
