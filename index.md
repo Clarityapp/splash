@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-From Balance Sheets, Cash Flows and Income Statements to financial ratios and so much more… All your information in one simple interface &mdash; ***which tells you exactly what you need to know.***
+From balance sheets, cash flows and income statements to financial ratios and so much more… All your information in one simple interface &mdash; ***see what you’ve been missing!***
 
-<p>Available soon in<a href="http://www.canada.ca/en/"><img src="/assets/canada_flag.png" alt="Flag of Canada" /></a>Canada</p>
+<p style="color: #030E1B;">Available soon in<a href="http://www.canada.ca/en/"><img src="/assets/flag_of_canada.svg" style="height: 40px;" alt="Flag of Canada" /></a>Canada</p>

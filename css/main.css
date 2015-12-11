@@ -78,6 +78,15 @@ ul li {
   margin: auto;
 }
 
+li > strong {
+  color: #030E1B;
+  font-size: 18px;
+}
+
+.flag {
+  color: #030E1B;
+}
+
 /* Integrations */
 
 .integrations {
@@ -88,8 +97,4 @@ ul li {
   background: white;
   margin-top: 40px;
   background-color: #E4ECF5;
-}
-
-.integrations:hover {
-  box-shadow: 0px 2px 2px 0px #E4ECF5;
 }
