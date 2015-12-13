@@ -7,3 +7,141 @@ permalink: /terms/
 Thank you for selecting the Services offered by Delta Appraisal Corporation and/or its subsidiaries and affiliates (referred to as "the Vendor", "we", "our", or "us"). Review these Terms of Service ("Agreement") thoroughly. This Agreement is a legal agreement between you and the Vendor.
 
 By accepting electronically (for example, clicking “I Agree”), installing, accessing or using the Services, you agree to these terms. If you do not agree to this Agreement, then you may not use the Services.
+
+**A. GENERAL TERMS**
+
+**1. AGREEMENT**
+
+This Agreement describes the terms governing your use of the Vendor’s online services provided to you on this website, including content, updates and new releases, (collectively, the “Services”). It includes by reference:
+
+- &sdot;&nbsp;The Vendor's Privacy Statement provided to you in the Services available on the website or provided to you otherwise.
+- &sdot;&nbsp;Additional Terms and Conditions, which may include those from third parties.
+- &sdot;&nbsp;Any terms provided separately to you for the Services, including product or program terms, ordering, activation, payment terms, etc.
+
+**2. YOUR RIGHTS TO USE THE SERVICES**
+
+**2.1** The Services are protected by copyright, trade secret, and other intellectual property laws. You are only granted the right to use the Services and only for the purposes described by the Vendor. The Vendor reserves all other rights in the Services. Until termination of this Agreement and as long as you meet any applicable payment obligations and comply with this Agreement, the Vendor grants to you a personal, limited, nonexclusive, nontransferable right and license to use the Services.
+
+**2.2** You agree not to use, nor permit any third party to use, the Services or content in a manner that violates any applicable law, regulation or this Agreement. You agree you will not:
+
+- &sdot;&nbsp;Provide access to or give any part of the Services to any third party.
+- &sdot;&nbsp;Reproduce, modify, copy, deconstruct, sell, trade or resell the Services.
+- &sdot;&nbsp;Make the Services available on any file-sharing or application hosting service.
+
+**3. PAYMENT**
+
+For Services offered on a payment or subscription basis, the following terms apply if you are the User paying for the Services, unless the Vendor or its third party affiliate notifies you otherwise in writing. This Agreement also incorporates by reference and includes program ordering and payment terms provided to you on the website for the Services:
+
+1. Payments will be billed to you in Canadian dollars, and your account will be debited when you subscribe and provide your payment information, unless stated otherwise in the program ordering or payment terms on the website for the Services.
+
+2. You must pay with one of the following:
+
+    1. A valid credit card acceptable to the Vendor;
+
+    2. Sufficient funds in a checking or savings account to cover an electronic debit of the payment due; or
+
+    3. By another payment option The Vendor provides to you in writing.
+
+3. If your payment and registration information is not accurate, current, and complete and you do not notify us promptly when such information changes, we may suspend or terminate your account and refuse your use of the Services.
+
+4. If you do not notify us of updates to your payment method (e.g., credit card expiration date), to avoid interruption of your service, we may participate in programs supported by your card provider (e.g., updater services, recurring billing programs, etc.) to try to update your payment information, and you authorize us to continue billing your account with the updated information that we obtain.
+
+5. The Vendor will automatically renew your monthly, quarterly, or annual Services at the then-current rates, unless the Services are cancelled or terminated under this Agreement.
+
+6. Additional cancellation or renewal terms may be provided to you on the website for the Services.
+
+**4. USE WITH YOUR MOBILE DEVICE**
+
+Use of these Services may be available through a compatible mobile device, the Internet, and may require software. You agree that you are solely responsible for these requirements, including any applicable changes, updates and fees as well as the terms of your agreement with your mobile device and telecommunications provider.
+
+THE VENDOR MAKES NO WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS, STATUTORY OR IMPLIED AS TO:
+
+1. THE AVAILABILITY OF TELECOMMUNICATION SERVICES FROM YOUR PROVIDER AND ACCESS TO THE SERVICES AT ANY TIME OR FROM ANY LOCATION;
+
+2. ANY LOSS, DAMAGE, OR OTHER SECURITY INTRUSION OF THE TELECOMMUNICATION SERVICES; AND
+
+3. ANY DISCLOSURE OF INFORMATION TO THIRD PARTIES OR FAILURE TO TRANSMIT ANY DATA, COMMUNICATIONS OR SETTINGS CONNECTED WITH THE SERVICES.
+
+**5. YOUR PERSONAL INFORMATION.**
+
+You can view The Vendor’s Privacy Statement provided with the Services and on the website for the Services. You agree to the applicable The Vendor Privacy Statement, and any changes published by the Vendor. You agree that The Vendor may use and maintain your data according to the Vendor Privacy Statement, as part of the Services. You give The Vendor permission to combine identifiable and non-identifiable information you enter or upload to the Services with that of other users of the Services and/or other The Vendor services. For example, this means that the Vendor may use your and other users’ non-identifiable, aggregated data to improve the Services or to design promotions and provide ways for you to compare business practices with other users. The Vendor is a global company and may access or store personal information in multiple countries, including countries outside of your own country to the extent permitted by applicable law.
+
+**6. CONTENT**
+
+**6.1 You are responsible for your content.**
+You are responsible for all materials, data, and personal information ("Content") uploaded, posted or stored through your use of the Services. You grant the Vendor a worldwide, royalty-free, non-exclusive license to host and use any Content provided through your use of the Services.
+
+**Archive your Content frequently**
+You are responsible for any lost or unrecoverable Content. You must provide all required and appropriate warnings, information and disclosures. The Vendor is not responsible for the Content or data you submit through the Services. You agree not to use, nor permit any third party to use, the Services to upload, post, distribute, link to, publish, reproduce, engage in or transmit any of the following, including but not limited to:
+
+1. Illegal, fraudulent, defamatory, obscene, pornographic, profane, threatening, abusive, hateful, harassing, offensive, inappropriate or objectionable information or communications of any kind, including without limitation conduct that would encourage "flaming" others, or criminal or civil liability under any local, state, federal or foreign law;
+
+2. Content that would impersonate someone else or falsely represent your identity or qualifications, or that constitutes a breach of any individual’s privacy;
+
+3. Except as permitted by the Vendor in writing, investment opportunities, solicitations, chain letters, pyramid schemes, other unsolicited commercial communication or engage in spamming or flooding;
+
+4. Virus, trojan horse, worm or other disruptive or harmful software or data; and
+
+5. Any information, software or Content which is not legally yours and without permission from the copyright owner or intellectual property rights owner.
+
+**6.2 Community forums**
+The Services may include a community forum or other social features to exchange Content and information with other users of the Services and the public (“Community Forum”). The Vendor does not support and is not responsible for the content in these Community Forums. Please use respect when you interact with other users in a Community Forum. Do not reveal confidential or other information that you do not want to make public. Users may post hypertext links to content of third parties for which The Vendor is not responsible.
+
+**6.3 The Vendor may freely use feedback you provide**
+You agree that the Vendor may use your feedback, suggestions, or ideas in any way, including in future modifications of the Services, other products or services, advertising or marketing materials. You grant the Vendor a perpetual, worldwide, fully transferable, sublicensable, non-revocable, fully paid-up, royalty free license to use the feedback you provide to The Vendor in any way.
+
+**6.4 The Vendor may monitor your Content**
+The Vendor may, but has no obligation to, monitor content on the Services. We may disclose any information necessary to satisfy our legal obligations, protect The Vendor or its customers, or operate the Services properly. The Vendor, in its sole discretion, may refuse to post, remove, or refuse to remove, any Content, in whole or in part, alleged to be unacceptable, undesirable, inappropriate, or in violation of this Agreement.
+
+**7. ADDITIONAL TERMS**
+
+**7.1 The Vendor does not give professional advice**
+Unless specifically included with the Services, The Vendor is not in the business of providing legal, financial, accounting, tax, health care, real estate or other professional services or advice. Consult the services of a competent professional when you need this type of assistance.
+
+**7.2 We may tell you about other the Vendor services**
+You may be offered other services, products, or promotions by the Vendor ("the Vendor Services"). Additional terms and conditions and fees may apply. With some the Vendor Services you may upload or enter data from your account(s) such as names, addresses and phone numbers, purchases, etc., to the Internet. You grant the Vendor permission to use information about your business and experience to help us to provide the Vendor Services to you and to enhance the Services. You grant the Vendor permission to combine your business data, if any, with that of others in a way that does not identify you or any individual personally. You also grant the Vendor permission to share or publish summary results relating to research data and to distribute or license such data to third parties.
+
+**7.3 Communications**
+The Vendor may be required by law to send you communications about the Services or third party products. You agree that The Vendor may send these communications to you via email or by posting them on our websites
+
+**7.4 You will manage your passwords and accept updates**
+You are responsible for securely managing your password(s) for the Services and to contact The Vendor if you become aware of any unauthorized access to your account. The Services may periodically be updated with tools, utilities, improvements, third party applications, or general updates to improve the Services. You agree to receive these updates.
+
+**7.5 Your Authority to Enter Into this Agreement**
+If this Agreement is being entered into by a company or other legal entity, you represent that you have the authority to enter this Agreement to bind such entity and its affiliates to these terms and conditions as its authorized representative, in which case the terms “you” or “your” will refer to such entity and its affiliates as well as you.
+
+**8. DISCLAIMER OF WARRANTIES**
+
+**8.1** YOUR USE OF THE SERVICES, SOFTWARE, AND CONTENT IS ENTIRELY AT YOUR OWN RISK. EXCEPT AS DESCRIBED IN THIS AGREEMENT, THE SERVICES ARE PROVIDED "AS IS." TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE VENDOR, ITS AFFILIATES, AND ITS THIRD PARTY PROVIDERS, LICENSORS, DISTRIBUTORS OR SUPPLIERS (COLLECTIVELY,"SUPPLIERS") DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY THAT THE SERVICES ARE FIT FOR A PARTICULAR PURPOSE, TITLE, MERCHANTABILITY, DATA LOSS, NON-INTERFERENCE WITH OR NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS, OR THE ACCURACY, RELIABILITY, QUALITY OR CONTENT IN OR LINKED TO THE SERVICES. THE VENDOR AND ITS AFFILIATES AND SUPPLIERS DO NOT WARRANT THAT THE SERVICES ARE SECURE, FREE FROM BUGS, VIRUSES, INTERRUPTION,ERRORS, THEFT OR DESTRUCTION. IF THE EXCLUSIONS FOR IMPLIED WARRANTIES DO NOT APPLY TO YOU, ANY IMPLIED WARRANTIES ARE LIMITED TO 60 DAYS FROM THE DATE OF PURCHASE OR DELIVERY OF THE SERVICES, WHICHEVER IS SOONER. SOME PROVINCES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM PROVINCE TO PROVINCE.
+
+**8.2** THE VENDOR, ITS AFFILIATES AND SUPPLIERS DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICES WILL SATISFY OR ENSURE COMPLIANCE WITH ANY LEGAL OBLIGATIONS OR LAWS OR REGULATIONS.
+
+**9. LIMITATION OF LIABILITY AND INDEMNITY**
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ENTIRE LIABILITY OF THE VENDOR, ITS AFFILIATES AND SUPPLIERS FOR ALL CLAIMS RELATING TO THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT YOU PAID FOR THE SERVICES DURING THE TWELVE (12) MONTHS PRIOR TO SUCH CLAIM. SUBJECT TO APPLICABLE LAW, THE VENDOR, ITS AFFILIATES AND SUPPLIERS ARE NOT LIABLE FOR ANY OF THE FOLLOWING: (A) INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES; (B) DAMAGES RELATING TO FAILURES OF TELECOMMUNICATIONS, THE INTERNET, ELECTRONIC COMMUNICATIONS, CORRUPTION, SECURITY, LOSS OR THEFT OF DATA, VIRUSES, SPYWARE, LOSS OF BUSINESS, REVENUE, PROFITS OR INVESTMENT, OR USE OF SOFTWARE OR HARDWARE THAT DOES NOT MEET THE VENDOR SYSTEMS REQUIREMENTS. THE ABOVE LIMITATIONS APPLY EVEN IF THE VENDOR AND ITS AFFILIATES AND SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS AGREEMENT SETS FORTH THE ENTIRE LIABILITY OF THE VENDOR, ITS AFFILIATES AND YOUR EXCLUSIVE REMEDY WITH RESPECT TO THE SERVICES AND ITS USE.
+
+You agree to indemnify and hold The Vendor and its affiliates and Suppliers and assigns harmless from any and all claims, liability and expenses, including reasonable attorneys' fees and costs, arising out of your use of the Services or breach of this Agreement (collectively referred to as "Claims"). The Vendor reserves the right, in its sole discretion and at its own expense, to assume the exclusive defense and control of any Claims. You agree to reasonably cooperate as requested by The Vendor in the defense of any Claims.
+
+**10. CHANGES**
+
+We reserve the right to change this Agreement at any time, and the changes will be effective when posted through the Services, on our website for the Services or when we notify you by other means. We may also change or discontinue the Services, in whole or in part. Your continued use of the Services indicates your agreement to the changes.
+
+**11. TERMINATION**
+
+The Vendor may immediately, in its sole discretion and without notice terminate this Agreement or suspend the Services if you fail to comply with this Agreement or if you no longer agree to receive electronic communications. Upon termination you must immediately stop using the Services and any outstanding payments will become due. Any termination of this Agreement shall not affect The Vendor’s rights to any payments due to it. The Vendor may terminate a free account at any time. Sections 2.2, 3 through 15 will survive and remain in effect even if the Agreement is terminated.
+
+**12. EXPORT RESTRICTIONS**
+
+You acknowledge that the Services, including the mobile application, and the underlying software is subject to restrictions and controls imposed by the *Export and Import Permits Act* (Canada) and regulations under the *Export and Import Permits Act* as well as the U.S. export controls regulations administered by the U.S. Department of Commerce (15 CFR, Chapter Vii) and that you will comply with all applicable laws and regulations. You will not export or reexport any part of the Services, in violation of the Canadian and U.S. export administration laws and regulations, directly or indirectly. You further acknowledge that this Software may include technical data subject to such Canada and U.S. export regulations.
+
+**13. GOVERNING LAW**
+
+The Province of Alberta and the federal laws of Canada govern this Agreement without regard to its conflicts of laws provisions. You agree to the exclusive jurisdiction of the Province of Alberta. The Vendor does not represent that the Services are appropriate or available for use in all countries. You are accessing the Services on your own initiative and you are responsible for compliance with all applicable laws.
+
+**14. RESOLUTION OF DISPUTES**.
+
+In the event that any disagreement arises between the parties hereto with reference to this Agreement or any matter arising hereunder and upon which the parties cannot agree, then any such dispute shall be referred to arbitration in accordance with the provisions of the *Arbitration Act* or other similar legislation in force in the Province of Alberta from time to time.
+
+**15. GENERAL.**
+
+This Agreement, including the Additional Terms below, is the entire agreement between you and the Vendor and replaces all prior understandings, communications and agreements, oral or written, regarding its subject matter. If any court of law, having the jurisdiction, rules that any part of this Agreement is invalid, that section will be removed without affecting the remainder of the Agreement. The remaining terms will be valid and enforceable. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement. You cannot assign or transfer ownership of this Agreement to anyone without written approval of The Vendor. However, The Vendor may assign or transfer it without your consent to (a) an affiliate, (b) a company through a sale of assets by The Vendor or (c) a successor by merger. Any assignment in violation of this Section shall be void. If you want to request a transfer of this Agreement, contact The Vendor via an email to: [info@clarityapp.co](mailto:info@clarityapp.co).
