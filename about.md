@@ -17,4 +17,4 @@ Data flows into Clarity from your favorite online accounting programs - saving y
 - **Reports**
 Create beautiful reports quickly that get to the heart of the value your business provides. Use the report to easily show where your business is going, and where it has been all with your companies logo presented proudly.
 - **Painless setup**
-Want to try Clarity? Our setup process is fast and easy requiring on average just **30 seconds** to perform initial setup. You don't even need a password to sign in to your account. Try it free today!
+Want to try Clarity? Our setup process is fast and easy requiring on average just **30 seconds** to perform initial setup. You don't even need a password to sign in to your account. Signup will be available once we enter into our open beta, so please continue to check back regularly.
